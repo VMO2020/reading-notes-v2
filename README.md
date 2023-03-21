@@ -1,12 +1,27 @@
 # reading-notes-v2
 
-### Intro
+#### Introduction:
 
-I'm Victor Ottati and I'm participating in the MERN Stack Coding Bootcamp at Tech Educators LTD.
+My name is Victor Ottati, I am Civil Engineer.
+My main passions include:
+
+- Photography
+- Football
+- Build something new in my computer
+
+Outside of work I spend most of my free time with family and friends.
+
+### My most recent photo in Liverpool:
+
+![Photo](https://res.cloudinary.com/vmog/image/upload/v1675703840/photos/cjmfib5jvtq3qo8x6vne.jpg)
+
+### Github
+
+You can view my GitHub repo[ HERE](https://github.com/VMO2020/Reading-notes/)
 
 ### About
 
-This repository is about my reading notes for the Norwich Code 102d4 classes and 201 classes.
+This repository is about my reading notes for the Norwich Code 102d4 classes and 201 classes. I'm participating in the MERN Stack Coding Bootcamp at Tech Educators LTD.
 
 ### Code 102
 
