@@ -1,0 +1,15 @@
+html {
+	text-align: left;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#top {
+	/* display: flex; */
+}
+
+#title {
+	color: aquamarine;
+}

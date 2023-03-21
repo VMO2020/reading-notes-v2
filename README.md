@@ -1,6 +1,6 @@
 # reading-notes-v2
 
-#### Introduction:
+#### Introduction
 
 My name is Victor Ottati, I am Civil Engineer.
 My main passions include:
@@ -11,7 +11,7 @@ My main passions include:
 
 Outside of work I spend most of my free time with family and friends.
 
-### My most recent photo in Liverpool:
+### My most recent photo in Liverpool
 
 ![Photo](https://res.cloudinary.com/vmog/image/upload/v1675703840/photos/cjmfib5jvtq3qo8x6vne.jpg)
 
