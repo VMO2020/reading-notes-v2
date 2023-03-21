@@ -2,7 +2,11 @@
 
 ### Intro
 
+I'm Victor Ottati and I'm participating in the MERN Stack Coding Bootcamp at Tech Educators LTD.
+
 ### About
+
+This repository is about my reading notes for the Norwich Code 102d4 classes and 201 classes.
 
 ### Code 102
 
