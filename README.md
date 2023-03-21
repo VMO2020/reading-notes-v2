@@ -17,7 +17,7 @@ Outside of work I spend most of my free time with family and friends.
 
 ### Github
 
-You can view my GitHub repo[ HERE](https://github.com/VMO2020/Reading-notes/)
+You can view my GitHub repo[ HERE](https://github.com/VMO2020/)
 
 ### About
 
