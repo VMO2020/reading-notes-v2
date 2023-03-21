@@ -12,7 +12,6 @@
 - [Class 04 - Growth Mindset](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-04.md)
 - [Class 05 - Growth Mindset](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-05.md)
 - [Class 06 - Growth Mindset](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-06.md)
-- [Class 02 - Growth Mindset](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-06.md)
 - [Class 07 - Growth Mindset](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-07.md)
 - [Class 08 - Growth Mindset](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-08.md)
 
