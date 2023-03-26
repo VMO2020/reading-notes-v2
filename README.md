@@ -13,11 +13,14 @@ Outside of work I spend most of my free time with family and friends.
 
 ### My most recent photo in Liverpool
 
-![Photo](https://res.cloudinary.com/vmog/image/upload/v1675703840/photos/cjmfib5jvtq3qo8x6vne.jpg)
+<!-- ![Photo](https://res.cloudinary.com/vmog/image/upload/v1675703840/photos/cjmfib5jvtq3qo8x6vne.jpg) -->
+<p align="center">
+  <img src="https://res.cloudinary.com/vmog/image/upload/v1675703840/photos/cjmfib5jvtq3qo8x6vne.jpg" width = "60%" />
+</p>
 
 ### Github
 
-You can view my GitHub repo[ HERE](https://github.com/VMO2020/)
+You can view my GitHub repo[HERE](https://github.com/VMO2020/)
 
 ### About
 
