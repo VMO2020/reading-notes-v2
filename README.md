@@ -28,6 +28,8 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 
 ### Code 102
 
+#### Code 102 - Intro to Software Development
+
 - [Class 01 - Markdown](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-01.md)
 - [Class 02 - Text Editor and Terminals](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-02.md)
 - [Class 03 - GIT & GITHUB](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-03.md)
@@ -38,6 +40,8 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 - [Class 08 - Javascript Loops](https://github.com/VMO2020/reading-notes-v2/blob/main/code-102/102class-08.md)
 
 ### Code 201
+
+#### Code 201 - Foundations of Software Development
 
 - [Class 01 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-01.md)
 - [Class 02 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-02.md)
@@ -54,3 +58,11 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 - [Class 13 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-13.md)
 - [Class 14 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-14.md)
 - [Class 15 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-15.md)
+
+### Code 301
+
+#### Code 301 - Intermediate Software Development
+
+### Code 401
+
+#### Code 401 - Advanced Software Development
