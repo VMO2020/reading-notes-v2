@@ -47,7 +47,7 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 - [Class 02 - Introduction To Web Development](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-02.md)
 - [Class 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-03.md)
 - [Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-04.md)
-- [Class 05 - Images, Color, Text](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-05.md)
+- [Class 05 - Images, Color, Text - CSS Diner](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-05.md)
 - [Class 06 - Object literals, DOM manipulation & Template Literals](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-06.md)
 - [Class 07 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-07.md)
 - [Class 08 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-08.md)
