@@ -50,7 +50,7 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 - [Class 05 - Images, Color, Text - CSS Diner](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-05.md)
 - [Class 06 - Object Literals, DOM Manipulation & Template Literals](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-06.md)
 - [Class 07 - Object-Oriented Programming, HTML Tables](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-07.md)
-- [Class 08 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-08.md)
+- [Class 08 - CSS Layout - Flexbox](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-08.md)
 - [Class 09 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-09.md)
 - [Class 10 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-10.md)
 - [Class 11 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-11.md)
