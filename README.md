@@ -52,7 +52,7 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 - [Class 07 - Object-Oriented Programming, HTML Tables](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-07.md)
 - [Class 08 - CSS Layout - Flexbox](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-08.md)
 - [Class 09 - UX - Forms and JS Event](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-09.md)
-- [Class 10 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-10.md)
+- [Class 10 - Debugging](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-10.md)
 - [Class 11 - Audio, Video, Images](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-11.md)
 - [Class 12 - Chart.js, Canvas](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-12.md)
 - [Class 13 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-13.md)
