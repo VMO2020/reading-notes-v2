@@ -55,7 +55,7 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 - [Class 10 - Debugging](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-10.md)
 - [Class 11 - Audio, Video, Images](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-11.md)
 - [Class 12 - Chart.js, Canvas](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-12.md)
-- [Class 13 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-13.md)
+- [Class 13 - Data Persistence: localStorage](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-13.md)
 - [Class 14 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-14.md)
 - [Class 15 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-201/201class-15.md)
 
