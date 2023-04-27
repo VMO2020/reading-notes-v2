@@ -9,7 +9,7 @@
 1. What is React?  
 
 . React is an open-source JavaScript agnostic User Interface Library used for building user interfaces or UI components.  
-. Agnostic, because React can work with many different environments.
+. Agnostic, because React can work with many different environments.  
 . In React all elements are JS Object.
 
 2. What is a component?  React have component architecture.
