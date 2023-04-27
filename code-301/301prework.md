@@ -8,15 +8,17 @@
 
 1. What is React?  
 
-React is an open-source JavaScript library used for building user interfaces or UI components.  
+. React is an open-source JavaScript agnostic User Interface Library used for building user interfaces or UI components.  
+. Agnostic, because React can work with many different environments.
+. In React all elements are JS Object.
 
-2. What is a component?  
+2. What is a component?  React have component architecture.
 
 In React, a component is a reusable piece of UI, consisting of JavaScript code that defines its properties, methods, and behaviors. A component can be a single element or a complex tree of nested elements.  
 
 3. What is the dataflow of React?  
 
-In React, the data flow is unidirectional, from the parent component to its children. The parent component passes down data and properties to its children as props, while the children pass data back up to the parent via callbacks or events.  
+In React, the data flow is unidirectional (**one way**), from the parent component to its children. The parent component passes down data and properties to its children as props, while the children pass data back up to the parent via callbacks or events.  
 
 4. How do we make a React element a DOM element?  
 
