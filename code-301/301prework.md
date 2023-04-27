@@ -31,3 +31,9 @@ To make a React element a DOM element, we use the ReactDOM library's render meth
 In React, data flows from parent to child components via props, and from child to parent components via callbacks or events.  
 
 7. Every component manages its own its own **state**. State is an object that stores data that can change over time and affects the component's rendering and behavior. State can be updated by the component itself or passed down as props from its parent component.  
+
+## Computer Setup
+
+![Setup-Terminal](../images/Setup.png)
+
+![Setup-MongoDB](../images/Setup-MongoDB.png)
