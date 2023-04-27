@@ -61,6 +61,12 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 
 ### Code 301
 
+- [Class 01 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-01.md)
+- [Class 02 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-02.md)
+- [Class 03 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-03.md)
+- [Class 04 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-04.md)
+- [Class 05 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-05.md)
+
 #### Code 301 - Intermediate Software Development
 
 ### Code 401
