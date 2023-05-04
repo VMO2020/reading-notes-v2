@@ -37,3 +37,4 @@ In React, data flows from parent to child components via props, and from child t
 ![Setup-Terminal](../images/Setup.png)
 
 ![Setup-MongoDB](../images/Setup-MongoDB.png)
+
