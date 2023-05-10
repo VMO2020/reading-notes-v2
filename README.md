@@ -64,9 +64,11 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 - [Pre-work](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301prework.md)
 - [Class 01 - Introduction to React and Components](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-01.md)
 - [Class 02 - State and Props](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-02.md)
-- [Class 03 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-03.md)
-- [Class 04 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-04.md)
+- [Class 03 - horned-beast](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-03.md)
+- [Class 04 - horned-beast-v2](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-04.md)
 - [Class 05 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-05.md)
+- [Class 06 - City Explorer](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-06.md)
+- [Class 07 - City Explorer v2](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-07.md)
 
 #### Code 301 - Intermediate Software Development
 
