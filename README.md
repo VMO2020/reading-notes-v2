@@ -68,7 +68,9 @@ This repository is about my reading notes for the Norwich Code 102d4 classes and
 - [Class 04 - horned-beast-v2](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-04.md)
 - [Class 05 -](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-05.md)
 - [Class 06 - City Explorer](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-06.md)
-- [Class 07 - City Explorer v2](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-07.md)
+- [Class 07 - City Explorer Weather](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-07.md)
+- [Class 08 - City Explorer Movies](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-08.md)
+- [Class 09 - City Explorer Deploy](https://github.com/VMO2020/reading-notes-v2/blob/main/code-301/301class-09.md)
 
 #### Code 301 - Intermediate Software Development
 
